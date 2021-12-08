@@ -2,6 +2,8 @@
 layout: default
 ---
 
+I am Jinchen Ge, an AI engineer at Graphcore. Prior to Graphcore, I was a CS MPhil student at the University of Cambridge, under the supervision of [Nicholas Lane](http://niclane.org/).
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
